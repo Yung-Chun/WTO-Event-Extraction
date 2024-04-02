@@ -1,2 +1,2 @@
-# WTO-EVENT-BERTopic
-Use BERTopic to classify WTO events.
+# WTO-Event-Extraction
+Use BERTopic to extract events from the official website of WTO.
